@@ -117,6 +117,7 @@ We thank all the great contributors very much.
 - [Generative relevance feedback with large language models.](https://arxiv.org/pdf/2304.13157) *Iain Mackie et.al.* Arxiv 2023.
 - [Query2doc: Query expansion with large language models.](https://arxiv.org/pdf/2303.07678) *Liang Wang et.al.* Arxiv 2023.
 - [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620/) *Zhihong Shao et al.* findings of EMNLP 2023
+- [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance.](https://aclanthology.org/2025.emnlp-main.963/) *Sijia Yao et.al.* EMNLP 2025.
 
 ### Generate rather than Retrieve
 
